@@ -6,9 +6,9 @@
 
  📚 Estudando : **Diversas técnicas para resolução de problemas e entrega de valor através dos dados.**
 
- 🛠 Conceitos : **Análise de dados, Visualização de Dados, Estatística, Matemática, Aprendizado de Máquina.**
+ 🛠 Conceitos : **Análise de dados, Visualização de Dados, Estatística, Matemática, Machine Learning.**
                 **Programação de Computadores, CI/CD, MLOps, Big Data, Cloud Computing, SQL, NoSQL.**
-                **Ética, Storytelling, LGPD, Comunicação, Metodologias Ágeis, Negócios**. 
+                **Storytelling, LGPD, Comunicação, Metodologias Ágeis, Negócios**. 
 
  💡Meu Propósito:**Resolver problemas de negócios e gerar valor nas organizações por meio da análise de dados, tornando-as grandes potências do mercado.**
 
