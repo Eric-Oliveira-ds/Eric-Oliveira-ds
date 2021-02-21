@@ -2,7 +2,7 @@
 <h1 align="center">Olá 👋 Bem Vindo(a)!</h1>
 <h3 align="center">Sou Administrador, Especializado em Ciência de Dados e  Inovação Organizacional</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ericoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="ericoliveira" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Eric-Oliveira-ds&label=Profile%20views&color=0e75b6&style=flat" alt="Eric-Oliveira-ds" /> </p>
 
  📚 Estudando : **Diariamente conceitos da área para manter-se atualizado para cumprir com os desafios da profissão.**
 
