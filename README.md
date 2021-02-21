@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eric-Oliveira-ds&label=Profile%20views&color=0e75b6&style=flat" alt="Eric-Oliveira-ds" /> </p>
 
- 📚 Estudando : **Diariamente conceitos da área para manter-se atualizado para cumprir com os desafios da profissão.**
+ 📚 Estudando : **Diariamente conceitos da área para manter-me atualizado para cumprir com os desafios da profissão.**
 
  🛠 Conceitos : **Análise de dados, Visualização de Dados, Estatística, Matemática, Machine Learning.**
                 **Programação de Computadores, CI/CD, MLops, Big Data, Cloud Computing, SQL, NoSQL, Desenvolvimento de software.**
