@@ -1,16 +1,16 @@
 [![author](https://img.shields.io/badge/author-EricOliveira-red.svg)](https://www.linkedin.com/in/eric-oliveira-a57545193) [![](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 <h1 align="center">Olá 👋 Bem Vindo(a)!</h1>
-<h3 align="center">Administrador, Especializado em Ciência de Dados e  Inovação Organizacional</h3>
+<h3 align="center">Sou Administrador, Especializado em Ciência de Dados e  Inovação Organizacional</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ericoliveira17&label=Profile%20views&color=0e75b6&style=flat" alt="ericoliveira17" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ericoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="ericoliveira" /> </p>
 
- 📚 Estudando : **Diversas técnicas para resolução de problemas e entrega de valor através dos dados.**
+ 📚 Estudando : **Diariamente conceitos da área para manter-se atualizado para cumprir com os desafios da profissão.**
 
  🛠 Conceitos : **Análise de dados, Visualização de Dados, Estatística, Matemática, Machine Learning.**
                 **Programação de Computadores, CI/CD, MLops, Big Data, Cloud Computing, SQL, NoSQL, Desenvolvimento de software.**
                 **Storytelling, LGPD, Comunicação, Metodologias Ágeis, Negócios**. 
 
- 💡Meu Propósito:**Resolver problemas de negócios e gerar valor nas organizações por meio da análise de dados, tornando-as grandes potências do mercado.**
+ 💡Meu Propósito:**Gerar valor e impacto na vida de pessoas e organizações por meio da ciência de dados, tornando-as grandes potências do mercado.**
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericoliveira1717@gmail.com)](mailto:ericoliveira1717@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5575998527356&text=Olá!)](https://api.whatsapp.com/send?phone=5575998527356&text=Olá!)
 <h3 align="left">Conecte-se comigo :</h3>
