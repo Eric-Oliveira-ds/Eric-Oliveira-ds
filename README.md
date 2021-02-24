@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eric-Oliveira-ds&label=Profile%20views&color=0e75b6&style=flat" alt="Eric-Oliveira-ds" /> </p>
 
- 📚 Estudando : **Diariamente conceitos da área para manter-me atualizado para cumprir com os desafios da profissão.**
+ 📚 Estudando : **Diariamente conceitos da área de Data Science para manter-me atualizado para cumprir com os desafios da profissão.**
  
- 💡Meu Propósito:**Gerar valor e impacto na vida de pessoas e organizações por meio da ciência de dados, tornando-as grandes potências do mercado.**
+ 💡Meu Propósito:**Gerar valor e impacto na vida de pessoas e organizações por meio da ciência de dados, possibilitando uma maior assertividade no processo de tomada de decisão, para torna-las grandes potências do mercado.**
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericoliveira1717@gmail.com)](mailto:ericoliveira1717@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5575998527356&text=Olá!)](https://api.whatsapp.com/send?phone=5575998527356&text=Olá!)
 <h3 align="left">Conecte-se comigo :</h3>
