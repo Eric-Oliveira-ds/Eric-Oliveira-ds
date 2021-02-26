@@ -11,7 +11,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericoliveira1717@gmail.com)](mailto:ericoliveira1717@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5575998527356&text=Olá!)](https://api.whatsapp.com/send?phone=5575998527356&text=Olá!)
 <h3 align="left">Conecte-se comigo :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/eric-oliveira-a57545193/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eric-oliveira-santos-a57545193/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eric-oliveira-ds/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eric-oliveira-ds/" height="30" width="40" /></a>
 <a href="https://instagram.com/@eric_oliveira.ds/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@eric_oliveira.ds" height="30" width="40" />
 <a href="https://medium.com/@ericoliveira17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ericoliveira17" height="30" width="40" /></a>
 </a>
