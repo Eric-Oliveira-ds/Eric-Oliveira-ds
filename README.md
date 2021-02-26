@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-EricOliveira-red.svg)](https://www.linkedin.com/in/eric-oliveira-a57545193) [![](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+[![author](https://img.shields.io/badge/author-EricOliveira-red.svg)](https://www.linkedin.com/in/eric-oliveira-ds)
 <h1 align="center">Olá 👋 seja bem vindo(a)!</h1>
 <h3 align="center">Sou Cientista de Dados com background em Administração de Empresas e Inovação Organizacional</h3>
 
