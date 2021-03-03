@@ -1,8 +1,8 @@
 [![author](https://img.shields.io/badge/author-EricOliveira-red.svg)](https://www.linkedin.com/in/eric-oliveira-ds)
 <h1 align="center">Olá 👋 seja bem vindo(a)!</h1>
-<h3 align="center"> 👩🏽‍💻 Cientista de Dados
-                       📊 Administrador de Empresas 
-                       💡 Inovador Organizacional</h3>
+<h3 align="center">💻 Cientista de Dados
+                   📊 Administrador de Empresas 
+                   💡 Inovador Organizacional</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eric-Oliveira-ds&label=Profile%20views&color=0e75b6&style=flat" alt="Eric-Oliveira-ds" /> </p>
 
