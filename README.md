@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eric-Oliveira-ds&label=Profile%20views&color=0e75b6&style=flat" alt="Eric-Oliveira-ds" /> </p>
 
- 📚 Estudando : **Diariamente conceitos da área de Data Science para manter-me atualizado para cumprir com os desafios da profissão.**
+ 📚 Buscando : **Soluções diariamente com conceitos da área de ciência de dados e aprendizado de máquina.**
  
  💡Meu Propósito : **Gerar valor e impacto na vida de pessoas e organizações por meio da ciência de dados, possibilitando uma maior assertividade no processo de tomada de decisão, para torna-las grandes potências do mercado.**
 
