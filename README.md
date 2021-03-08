@@ -1,17 +1,15 @@
 [![author](https://img.shields.io/badge/author-EricOliveira-red.svg)](https://www.linkedin.com/in/eric-oliveira-ds)
-<h1 align="center">Olá 👋 seja bem vindo(a)!</h1>
-<h3 align="center">💻 Cientista de Dados
-                   📊 Administrador de Empresas 
-                   💡 Inovador Organizacional</h3>
+<h1 align="center">Olá sou Eric 👋 bem vindo !</h1>
+<h3 align="center">Sou 💻 Cientista de Dados 📊 Administrador de Empresas 💡 Inovador Organizacional</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eric-Oliveira-ds&label=Profile%20views&color=0e75b6&style=flat" alt="Eric-Oliveira-ds" /> </p>
 
- 📚 Buscando : **Soluções diariamente com conceitos da área de ciência de dados e aprendizado de máquina.**
+ 📚 Seeking out : **Daily solutions with concepts from data science and machine learning.**
  
- 💡Meu Propósito : **Gerar valor e impacto na vida de pessoas e organizações por meio da ciência de dados, possibilitando uma maior assertividade no processo de tomada de decisão, para torna-las grandes potências do mercado.**
+ 💡My purpose : **Generate value and impact on the lives of people and organizations through data science, enabling greater assertiveness in the decision-making process, to make them great market powers.**
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericoliveira1717@gmail.com)](mailto:ericoliveira1717@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5575998527356&text=Olá!)](https://api.whatsapp.com/send?phone=5575998527356&text=Olá!)
-<h3 align="left">Conecte-se comigo :</h3>
+<h3 align="left">Connected with me :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/eric-oliveira-ds/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eric-oliveira-ds/" height="30" width="40" /></a>
 <a href="https://instagram.com/@eric_oliveira.ds/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@eric_oliveira.ds" height="30" width="40" />
