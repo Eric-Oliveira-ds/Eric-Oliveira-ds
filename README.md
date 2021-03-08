@@ -1,6 +1,6 @@
 [![author](https://img.shields.io/badge/author-EricOliveira-red.svg)](https://www.linkedin.com/in/eric-oliveira-ds) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericoliveira1717@gmail.com)](mailto:ericoliveira1717@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5575998527356&text=Olá!)](https://api.whatsapp.com/send?phone=5575998527356&text=Olá!)
 <h1 align="center">Hello I am Eric welcome!</h1>
-<h3 align="center">I am a Data Scientist💻 with background in Company administration📊</h3>
+<h3 align="center">I am a Data Scientist 💻 with background in Company administration 📊</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eric-Oliveira-ds&label=Profile%20views&color=0e75b6&style=flat" alt="Eric-Oliveira-ds" /> </p>
 
 📚 Seeking out : **Daily solutions with concepts from data science and machine learning.**
