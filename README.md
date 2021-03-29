@@ -7,7 +7,8 @@
 
 💡My purpose : **Generate value and impact on the lives of people and organizations through data science, enabling greater assertiveness in the decision-making process, to make them great market powers.**
 
-💻 All of my projects are available at [https://github.com/Eric-Oliveira-ds/Data-Science-Estudos](https://github.com/Eric-Oliveira-ds/Data-Science-Estudos)
+💻 My projects :  
+[ANÁLISE DOS ACIDENTES DE TRÂNSITO NAS RODOVIAS BRASILEIRAS NO PRIMEIRO TRIMESTRE DE 2020](https://github.com/Eric-Oliveira-ds/Data-Science-Projetos-Portfolio/tree/main/ACIDENTES%20DE%20TR%C3%82NSITO%20NAS%20RODOVIAS%20BRASILEIRAS%20NO%20PRIMEIRO%20TRIMESTRE%20DE%202020)
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
