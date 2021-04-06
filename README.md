@@ -9,6 +9,7 @@
 
 💻 My projects :  
 [ANÁLISE DOS ACIDENTES DE TRÂNSITO NAS RODOVIAS BRASILEIRAS NO PRIMEIRO TRIMESTRE DE 2020](https://github.com/Eric-Oliveira-ds/Data-Science-Projetos-Portfolio/tree/main/ACIDENTES%20DE%20TR%C3%82NSITO%20NAS%20RODOVIAS%20BRASILEIRAS%20NO%20PRIMEIRO%20TRIMESTRE%20DE%202020)
+
 [INSIGHTS PARA O RH](https://github.com/Eric-Oliveira-ds/Data-Science-Projetos-Portfolio/blob/main/RH_EDA/RH_Insights_01.ipynb)
 <h3 align="left">Connect with me :</h3>
 <p align="left">
