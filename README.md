@@ -8,9 +8,9 @@
 💡My purpose : **Generate value and impact on the lives of people and organizations through data science, enabling greater assertiveness in the decision-making process, to make them great market powers.**
 
 💻 My projects :  
-[ANÁLISE DOS ACIDENTES DE TRÂNSITO NAS RODOVIAS BRASILEIRAS NO PRIMEIRO TRIMESTRE DE 2020](https://github.com/Eric-Oliveira-ds/Data-Science-Projetos-Portfolio/tree/main/ACIDENTES%20DE%20TR%C3%82NSITO%20NAS%20RODOVIAS%20BRASILEIRAS%20NO%20PRIMEIRO%20TRIMESTRE%20DE%202020)
-
+[ANÁLISE DOS ACIDENTES DE TRÂNSITO NAS RODOVIAS](https://github.com/Eric-Oliveira-ds/Data-Science-Projetos-Portfolio/blob/main/ACIDENTES%20DE%20TR%C3%82NSITO%20NAS%20RODOVIAS%20BRASILEIRAS%20NO%20PRIMEIRO%20TRIMESTRE%20DE%202020/Acidentes_de_Tr%C3%A2nsito_2020_por_Rodovias.ipynb)
 [INSIGHTS PARA O RH](https://github.com/Eric-Oliveira-ds/Data-Science-Projetos-Portfolio/blob/main/RH_EDA/RH_Insights_01.ipynb)
+[ANÁLISE DAS COTAÇÕES DA EMBRAER](https://github.com/Eric-Oliveira-ds/Data-Science-Projetos-Portfolio/blob/main/COTA%C3%87%C3%95ES_EMBRAEER/An%C3%A1lise_Cota%C3%A7%C3%B5es_EMBRAER.ipynb)
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/eric-oliveira-ds/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eric-oliveira-ds/" height="30" width="40" /></a>
