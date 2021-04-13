@@ -1,5 +1,5 @@
-<h1 align="center">** Oi eu sou Eric 🖐☺ **</h1>
-<h3 align="center">** Sou Administrador📊 especializado em Ciência de Dados💻 e Inovação Organizacional💡, pela UNIASSELVI🎓 **</h3>
+<h1 align="center"> ** Oi eu sou Eric 🖐☺ ** </h1>
+<h3 align="center"> ** Sou Administrador📊 especializado em Ciência de Dados💻 e Inovação Organizacional💡, pela UNIASSELVI🎓 ** </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eric-Oliveira-ds&label=Profile%20views&color=0e75b6&style=flat" alt="Eric-Oliveira-ds" /> </p>
 <h3 align="left">Conectar-se comigo:</h3>
 <p align="left">
