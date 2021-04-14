@@ -1,6 +1,7 @@
 <h1 align="center"> Oi eu sou Eric 🖐☺  </h1>
-<h3 align="center"> Sou Administrador 📊 
-                    Especializado em Ciência de Dados 💻 e Inovação Organizacional 💡 </h3>
+ 🎓 **Sou Administrador 📊📈** 
+ 🎓 **Especializado em Ciência de Dados 🔎🎲**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eric-Oliveira-ds&label=Profile%20views&color=0e75b6&style=flat" alt="Eric-Oliveira-ds" /> </p>
 <h3 align="left">Conectar-se comigo:</h3>
 <p align="left">
@@ -16,7 +17,7 @@
 
 💡 Meu propósito: **Transformar o processo de tomada de decisão do negócio mais assertivo e impactar positivamente a vida de empresas e pessoas através dos dados, tecnologia e inovação.**
 
-💻 Meus projetos : [PROJETOS DE PORTFÓLIO](https://github.com/Eric-Oliveira-ds/Data-Science-Projetos-Portfolio)
+💻 Meus projetos : **[PROJETOS DE PORTFÓLIO]**(https://github.com/Eric-Oliveira-ds/Data-Science-Projetos-Portfolio)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eric-oliveira-ds&show_icons=true&theme=dark&locale=en&layout=compact" alt="eric-oliveira-ds" /></p>
 
