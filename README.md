@@ -15,12 +15,7 @@
 
 💡 Meu propósito: **Transformar o processo de tomada de decisão do negócio mais assertivo e impactar positivamente a vida de empresas e pessoas através dos dados, tecnologia e inovação.**
 
-💻 Meus projetos:  
-[ANÁLISE DOS ACIDENTES DE TRÂNSITO NAS RODOVIAS BRASILEIRAS](https://github.com/Eric-Oliveira-ds/Data-Science-Projetos-Portfolio/blob/main/ACIDENTES%20DE%20TR%C3%82NSITO%20NAS%20RODOVIAS%20BRASILEIRAS%20NO%20PRIMEIRO%20TRIMESTRE%20DE%202020/Acidentes_de_Tr%C3%A2nsito_2020_por_Rodovias.ipynb)
-
-[INSIGHTS PARA O SETOR DE RH](https://github.com/Eric-Oliveira-ds/Data-Science-Projetos-Portfolio/blob/main/RH_EDA/RH_Insights_01.ipynb)
-
-[ANÁLISE DAS COTAÇÕES DA EMBRAER](https://github.com/Eric-Oliveira-ds/Data-Science-Projetos-Portfolio/blob/main/COTA%C3%87%C3%95ES_EMBRAEER/An%C3%A1lise_Cota%C3%A7%C3%B5es_EMBRAER.ipynb)
+💻 Meus projetos : [PROJETOS DE PORTFÓLIO](https://github.com/Eric-Oliveira-ds/Data-Science-Projetos-Portfolio)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eric-oliveira-ds&show_icons=true&theme=dark&locale=en&layout=compact" alt="eric-oliveira-ds" /></p>
 
