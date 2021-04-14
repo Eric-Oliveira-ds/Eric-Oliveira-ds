@@ -1,8 +1,8 @@
 <h1 align="center"> Oi eu sou Eric 🖐☺  </h1>
 
 🎓 **Sou Administrador** 📊📈
-
 🎓 **Especializado em Ciência de Dados** 🔎🎲
+🎓 **Especializado em inovação organizacional** 🗯💡
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eric-Oliveira-ds&label=Profile%20views&color=0e75b6&style=flat" alt="Eric-Oliveira-ds" /> </p>
 <h3 align="left">Conectar-se comigo:</h3>
