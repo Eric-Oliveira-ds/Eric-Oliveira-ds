@@ -1,11 +1,9 @@
-<h1 align="center"> Oi eu sou Eric 🖐☺  </h1>
+<h1 align="center"> Oi eu sou Eric 🖐😆 </h1>
 
-🎓 **Administrador** 📊
-🎓 **Especializado em Ciência de Dados** 🎲
-🎓 **Especializado em Inovação Organizacional** 💡
+🎓**Cientista de Dados🔬** **&** **Administrador📊**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eric-Oliveira-ds&label=Profile%20views&color=0e75b6&style=flat" alt="Eric-Oliveira-ds" /> </p>
-<h3 align="left">Conectar-se comigo:</h3>
+<h3 align="left">Conectar-se comigo👇</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/eric-oliveira-ds/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eric-oliveira-ds/" height="30" width="40" /></a>
 <a href="https://instagram.com/@eric_oliveira.ds/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@eric_oliveira.ds" height="30" width="40" />
@@ -17,7 +15,7 @@
 
 📚 Estudando: **O que for necessário para solucionar problemas através dos dados.**
 
-💡 Meu propósito: **Transformar o processo de tomada de decisão do negócio mais assertivo e impactar positivamente a vida de empresas e pessoas através dos dados, tecnologia e inovação.**
+💡 Meu propósito: **Transformar o processo de tomada de decisão do negócio mais assertivo e impactar positivamente a vida de empresas e pessoas através de soluções orientadas por dados.**
 
 💻 **Meus projetos**: [PROJETOS DE PORTFÓLIO](https://github.com/Eric-Oliveira-ds/Data-Science-Projetos-Portfolio)
 
