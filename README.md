@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻Data Scientist Consultant at [BIX Tecnologia](https://www.accenture.com/br-pt)<br>🧑‍🎓Specialist Data Science Administrator at Leonardo da Vinci University Center
+🧑‍💻Data Scientist Consultant at [BIX Tecnologia](https://www.bixtecnologia.com.br/)<br>🧑‍🎓Specialist Data Science Administrator at Leonardo da Vinci University Center
 
 
 ## 🌐 Socials:
