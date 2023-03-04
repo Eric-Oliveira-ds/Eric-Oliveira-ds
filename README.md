@@ -1,6 +1,5 @@
 # 💫 About Me:
-🧑‍💻Data Scientist 🧑‍🎓Specialist Data Science Administrator at Leonardo da Vinci University Center
-
+🧑‍💻Data Scientist 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-oliveira-ds) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Eric_Oliveira) 
