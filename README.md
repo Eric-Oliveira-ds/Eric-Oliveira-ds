@@ -1,6 +1,6 @@
 # 💫 About Me:
-🧑‍💻Data Scientist
-💼Ex - BIX Tecnologia
+🧑‍💻Data Scientist<br/>
+💼Ex - BIX Tecnologia<br/>
 🧑‍🎓Business administrator specializing in data science from the Leonardo da Vinci University Center
 
 ## 🌐 Socials:
