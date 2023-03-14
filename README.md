@@ -1,5 +1,7 @@
 # 💫 About Me:
-🧑‍💻Data Scientist 
+🧑‍💻Data Scientist
+💼Ex - BIX Tecnologia
+🧑‍🎓Business administrator specializing in data science from the Leonardo da Vinci University Center
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-oliveira-ds) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Eric_Oliveira) 
